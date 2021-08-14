@@ -46,7 +46,7 @@
 
   fazer a mesclage entre branchs
 
-- **git fetch orgin**
+- **git fetch origin**
 
   resgata todas as alteraçoes incluidas no repositótio
 
